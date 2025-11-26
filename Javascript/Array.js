@@ -9,4 +9,5 @@ const greater =(a,b,c,)=>{
     console.log(" c is the greatest");
   }
 }
-    greater(1,3,4)
+    greater(1,3,4);
+    
